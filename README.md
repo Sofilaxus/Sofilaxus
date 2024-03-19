@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+☆ I'm currently a student at NTNU
+☆ I'm studying for a bachelors degree in dataengineering (dataingeniør)
+☆ You can reach me on my mail - sofiasmik@gmail.com
+
 <!--
 **Sofilaxus/Sofilaxus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
