@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - ☆ I'm currently a student at NTNU
-- ☆ I'm studying for a bachelors degree in dataengineering (dataingeniør)
+- ☆ I'm studying for a bachelors degree in computer science (dataingeniør)
 - ☆ You can reach me on my mail - sofiasmik@gmail.com
 
 <!--
