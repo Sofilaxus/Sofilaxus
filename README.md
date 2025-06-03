@@ -5,6 +5,7 @@
 ☆ You can reach me on my mail - sofiasmik@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/sofiaserine/)
+
 [Twitter/X](https://youtu.be/dQw4w9WgXcQ?si=--dijAk78zFeOIGd)
 
 <!--
