@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-- ☆ I'm currently a student at NTNU
-- ☆ I'm studying for a bachelors degree in computer science (dataingeniør)
-- ☆ You can reach me on my mail - sofiasmik@gmail.com
+☆ I'm currently a student at NTNU
+☆ I'm studying for a bachelors degree in computer science (dataingeniør)
+☆ You can reach me on my mail - sofiasmik@gmail.com
+
+[LinkedIn](https://www.linkedin.com/in/sofiaserine/)
+[Twitter/X](https://youtu.be/dQw4w9WgXcQ?si=--dijAk78zFeOIGd)
 
 <!--
 **Sofilaxus/Sofilaxus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
