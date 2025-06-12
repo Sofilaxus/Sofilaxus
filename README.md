@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ☆ I'm currently a student at NTNU <br>
-☆ I'm studying for a bachelors degree in computer science (dataingeniør) <br>
+☆ I'm studying for a Master in Information Security (MIS) <br>
+☆ I have a bachelors degree in computer science (dataingeniør) <br>
 ☆ You can reach me on my mail - sofiasmik@gmail.com <br>
 
 [LinkedIn](https://www.linkedin.com/in/sofiaserine/)
